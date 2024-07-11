@@ -1,0 +1,6 @@
+data = list()
+data += input()
+data += input()
+data += input()
+data += input()
+print(min(data))

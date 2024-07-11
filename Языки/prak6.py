@@ -1,0 +1,6 @@
+data1 = int(input())
+data2 = int(input())
+data3 = int(input())
+data4 = int(input())
+print("\n")
+print(data1 + data2 + data3 + data4)
